@@ -1,7 +1,7 @@
 - 👋 Hi, I’m debrup
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, Python and R
-- 💞️ I’m looking to collaborate with anyone who wants to clean their data or build a game(:D)
+- 🌱 I’m currently learning SQL, Python, scala and R
+- 💞️ I’m looking to collaborate with anyone who wants to clean their data or build a game(:D) or AI projects
 - 📫 Contact: dmukherjeetextiles@gmail.com
 - Alternative Contact: https://www.linkedin.com/in/debrup-mukherjee-a05287223/
 
